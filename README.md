@@ -11,8 +11,11 @@ Qualidades: Trabalho bem em equipes, paciente e adaptável a situações difíce
 
 # Fale comigo!!
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:rafaelhbatisat43@gmail.com)](mailto:rafaelhbatista43@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/rafael-henrique/)](https://www.linkedin.com/in/rafael-henrique-43518a351/)
+<a href = "rafaelhbatista43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-henrique-43518a351/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -65,4 +68,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:rafaelhbatisat43@gmail.com)](mailto:rafaelhbatista43@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/rafael-henrique/)](https://www.linkedin.com/in/rafael-henrique-43518a351/)
+
+
+
 -->
+
