@@ -2,9 +2,13 @@
 
 **`Desenvolvedor Back-end`**
 
-![image](https://i.pinimg.com/originals/50/0b/27/500b27120a0a261bfab28f0390bf48df.gif)
+<div align="center">
+        
+![gif de perfil](https://i.pinimg.com/originals/50/0b/27/500b27120a0a261bfab28f0390bf48df.gif)
+ 
+   </p>
 
-Me chamo Rafael Henrique de Souza Marques Cavalcanti Batista, tenho 18 anos, nascido em Pernambuco, Recife. Concluí o ensino médio no Mediotec Senac no ano de 2024. Atualmente estou cursando (ADS) Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, Gosto muito de Tecnologia, jogos digitais e informações do mundo.
+ Me chamo Rafael Henrique de Souza Marques Cavalcanti Batista, tenho 18 anos, nascido em Pernambuco, Recife. Concluí o ensino médio no Mediotec Senac no ano de 2024. Atualmente estou cursando (ADS) Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, Gosto muito de Tecnologia, jogos digitais e informações do mundo.
 Qualidades: Trabalho bem em equipes, paciente e adaptável a situações difíceis. 
 
 <hr>
