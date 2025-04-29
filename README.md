@@ -40,7 +40,6 @@ Qualidades: Trabalho bem em equipes, paciente e adaptável a situações difíce
 ### 📊 Estatísticas
 
 
-  
 <img 
     align="left" 
     alt="GitHub Stats" 
