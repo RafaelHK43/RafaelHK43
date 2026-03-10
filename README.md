@@ -12,7 +12,7 @@
  
    </p>
 
- Me chamo Rafael Henrique de Souza Marques Cavalcanti Batista, tenho 18 anos, nascido em Pernambuco, Recife. Concluí o ensino médio no Mediotec Senac no ano de 2024. Atualmente estou cursando (ADS) Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, Gosto muito de Tecnologia, jogos digitais e informações do mundo.
+ Me chamo Rafael Henrique de Souza Marques Cavalcanti Batista, tenho 19 anos, nascido em Pernambuco, Recife. Concluí o ensino médio no Mediotec Senac no ano de 2024. Atualmente estou cursando (ADS) Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, Gosto muito de Tecnologia, jogos digitais e informações do mundo.
 Qualidades: Trabalho bem em equipes, paciente e adaptável a situações difíceis. 
 
 <hr>
